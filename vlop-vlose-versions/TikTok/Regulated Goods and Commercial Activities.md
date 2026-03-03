@@ -1,0 +1,147 @@
+Regulated Goods, Services, and Commercial Activities
+----------------------------------------------------
+
+Released August 14, 2025
+
+Effective September 13, 2025
+
+TikTok is a place to share and learn about all kinds of products and services, but some may come with higher risks—like addiction, danger, or fraud. We moderate content about regulated or commercial activities to help prevent physical or financial harm. In some cases, when potential harms can be mitigated by additional controls, we allow limited [paid advertising](https://ads.tiktok.com/help/article/advertising-on-tiktok-first-things-to-note?lang=en) from verified registered business accounts that meet TikTok’s policies and legal requirements.
+
+### Regulated Goods and Services
+
+**We don’t allow trading, marketing, or providing access to regulated, prohibited, or high-risk goods and services.** For the most harmful goods and services, we prohibit both promotion and showing their use. For certain products like alcohol, we allow some content, but may apply restrictions to reduce potential risks. **Learn more about substance use support [here](https://www.tiktok.com/safety/substance-support/?lang=en), and gambling resources [here](https://www.tiktok.com/safety/gambling-support/?lang=en).**
+
+In some regions and on [LIVE](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2025H2update#2), our treatment of this type of content may be different. We provide limited exceptions for registered business accounts and verified TikTok Shop sellers meeting our standards.
+
+**Learn how to apply for registered business account authorization [here](https://ads.tiktok.com/help/article/about-business-registration?lang=en).**
+
+More information
+
+**Trade:** The sale, purchase, exchange, giveaway, or redirection of goods or services. This includes posting links, sharing contact or location information, or directing people off-platform.
+
+**Tobacco Products:** Vaping products, synthetic nicotine, combustible tobacco (like cigarettes), smokeless tobacco (like chewing tobacco), E-cigarettes, and other electronic nicotine delivery systems.
+
+**Regulated Substances:** Illegal drugs, prescription or over-the-counter medications, compressed air canisters (whippets), nitrite poppers, and products marketed for weight loss or muscle gain.
+
+**Firearms**: Professionally manufactured or improvised weapons (like ghost guns or 3D-printed guns), accessories, and ammunition.
+
+**Gambling**: Betting money or something of value on uncertain outcomes for financial gain.
+
+**Gambling-like activities** may not involve money, as can be the case with social casinos or mystery boxes.
+
+**Mystery Value Products**: Goods with unknown or variable worth, including money or in-game currency.
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAEPElEQVRYhcWZS1bbShCG/yrZjLWENgYDIxq4c5QVhKwAs4KEFdheAWQFkBUEVoCzgIv7jgh+RMoOPI6srgzAXBmslmQb+M/xOcj9qI9yq7qrmrCEQq38P54XsNChhSgINAO+AD4AEDAWSATQmIiMJfmxliTdmonGi9qkRQYN/tkIJJEWAXoKV0ZCuALh29a/o6uyY0sB3x/Uj8jiDIAqayhDEQidxu3osuiAQsChViom7wJAsCBYjsRUZe1TzfyM8npyXofRwfrnCXk9vBosAJCOKe793F//ktvT1TjYX2+JUHtlXAVEJO3N21+dzPashveAncoFPRe4DOxD6CJDgmsBdauIo2nYCrXyJ6hoABqMQxE5Whb6BfDoYP1zYum8CKgV+rqGyXnRuHqnlWJUmkRyjAKRxpKcbt/+mmGZAQ61UhPyegVj6xjCHxpmYIrApnWnlWLy2gQc59moSnUvHT1mokRM/L3ERuCD7E1fb+qSvNgxUbTVGzVJ6DTPRkzxRfqLJ+D+fr0JUFnjC0MDwKYZnkNwktMtuNf1p7X/v4cFrUWMYknohhld5nmaCGfTvxkAhgf1Iyy33S7vacJXRxc10BsB8AgsQq7FHxFQJAosBV21SdtlR0haAMChVr4rPorQNxH+8NrQNRONLZHLyzrUyufE8wLXRBaVy4YZmLeAXrOTc4cN/w+8gK1kH2oscL3zGAPfArpmorEAmXGdGAFDsJs5A1E3/fgW0ER0ndVmBYoBytwoPPvyv31t6IqddVJaDOwyQVTmYEzm/jyvCx1HrrnYtRW7DjWvBZ1zkPJzMw6X3ip6pMUuY6FWuQehVUPn2ByzOAzFqKoCECuFnlQqjl9AIiaizLhnWYICAABWCG3hAOYxC+R3ZrPIxyKwU60I+jBzBMl/zISuY1JdZB2ntQx0qJVynmssuuwlSde5f3Mlt1awKugJszNlWkPSJQDo79VvkF0oGVclqS1SwOvrTU1kbwrniA8fNa/RAtfbvdERAwAJZRYuAPgx80LZSGlPO5IIElwCqay5v1cPXQPmpdxFVdLT8xQ1eqMakMrpWODMq1jobKjreWn5XJX09EsJnlbATF0iZy0DeA9Pk2n0hnvTp5mzRCLJSZ4XWOisv1+/CPW2Kslb2tMEjBOpfJqxn37YMVEE9wv4IEEzpvhmsL/eKgMeauUTJ4U3o0Sos/OsZjy3GHivN9r0mKUWkRCuGPQDDFOZTEy6GBhXq4oSCUTkY5krBhHqbJlh+/n3meXWstCrVBYskFPQfg9oFyxQ4I5joDe+gKS1RAwtpIcXjDrbZuiMQIUuZe60Uh5VvgOyVLbgwOgmUjl5/oLN7Vlm2r6uN0FoYYXXXiI43TLF7+sWulgc6vqRMB2XuQJIGZxeMXQ2zbC7wPjFFWrlJ/ACywggtAvAJ4hKX91aYMxERiC/2aLrYbmr27+DrWfGSY/FdAAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAD60lEQVRYhcWZQXbaSBBAf7UUZqsjKCcI2dk4fla2M8ZRTmD7BIlPAJzAzgnsnCD44czWypsZnJ2ZEwy5AdshiMoCw6AYtVoCM7UCdXXXp9RUd1UJa4jGUUCaRjA9QDVEqWMIUAIAhBEqQ2CEMADzBc9LpJuMqtqUSqCHryLQFqL1BVw56SLeR+n90S07sRSwNndjkHOUsKyhHOtDoCO9/pX7FAfReCdk4l2CRtXICmWAX3sr3WRYpGiKFPRo9x2puX9CWIA6k/G9/rb7vkjR6mE9bLSA9qaoHKUtN/1O3mAu8P8EO5dc6JXApWBnoWuATK/xJIHacB62NI4CJpM6ktZBDlDidaEfAevR7jumcuEGygf82oVrXJ39ec0JwrFTpFE9k893GZYMsMY7Iam5d4ytI6a8lt/7AxfYx3akjcpxoQ2/9nI5emSjxMT7VOIgCDDc6q+NejlckO7XofTuThA9K7Qx+X65/GABrM3GCWhZ45WhAaR3d4FwatfSSJv7i72/7OFWFaOsDd2/KvZ0ej7/ZAC0uR+vedyu72n4kKughLP7y8LDaf7mF4YILlFgLWj8WttuR1sARuMosMZH5SMer58aWrrJLEzmg9Q1jgIzu89axK9dSbc/2AY0fu3CYiMg/TcyqAVYuZ7HwG1Az7ws+XFdJTIgL/KX0CS74BY8LdPrfBxCA5aDQrxHv/bJoT1JcscMLwyiYa6C7698PU8LXRvmDimBsR3FtkvNU0EXXKSCwozDvviWoseSGJsxjaPCi9CmoQtsjgxTi6HxOHSA2Cz0ZGJ7A0ODIT/uiXviuTFoSS3AMjIo3/LHzRsH4/+pbwRaDvKn6N8G8RKLQt1lH2fMrQGt8U5ovdeIJgbPS6zn92RcWCvYGPTE2FMm75dEAPRw79ZSKBnh155XKeBp3KiTcuucI84S23D1YlzL5378EIclt3ABBKTfK2UjpT1tSyKMXsFS1qzNxj/WCStSblcp6enHIgyl138OmZzOs+dVIud6tFeUlq+eWs7Tq2SxA7J1CfteflDatqdlIDd/vZx/y94l/PS00Asi59rcu9Q4CkvRUsHTwgj/2dvlRxlg6X4dgtr+gDNRPSEd3+pho1UGfFZrw/0wmmrn55pxXjGwTbk6RRfRL6g3wPcHmWLgeBziaYSaNyVbDB256bd/fmgrt5aF3qSshIXignab7UPnwoJDj0Obu+9BWpVjqKsII6baKYpAZZoynyoUCx1FEvxnpy5NmZJtr8YJ0Nps20vPpHfn3K+r1lhs7seQHpdsAcwtPhRLpCM3fyblp68hi9atptFDQSZANMy0bqeMMAxQviFesm7r9gcD1gDXQ4smoQAAAABJRU5ErkJggg==)
+
+NOT ALLOWED
+
+*   Trading, marketing, or providing access to (except where otherwise specified below):
+
+*   Alcohol, tobacco, drugs, or other regulated substances
+*   Firearms, ammunition, explosive weapons, or instructions on how to make them
+*   Gambling, gambling-like activities, or mystery value products
+*   Counterfeit or fake goods
+*   Fake currency, forged documents, or stolen data
+*   Sexual services, including solicitation or sexcamming
+*   Engagement services like selling likes or followers
+*   Live animals, as well as endangered species or items made from them, like ivory or rhino horn
+*   Hate speech-related items, such as books or apparel with hate symbols
+*   Fireworks, cold weapons (like pepper spray), hazardous materials, body parts, or historical artifacts
+
+*   Providing instructions for making or using regulated substances, such as homemade drugs or weapons
+*   Showing, promoting, or using drugs or other regulated substances recreationally. In some regions, this includes cannabis
+*   Showing or promoting young people participating in gambling, using alcohol, tobacco, or fireworks, or having weapons
+*   Showing the misuse of everyday items to get intoxicated
+*   In some regions, showing or promoting gambling or gambling-like activities, or firearms or explosive weapons
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAADV0lEQVRYhc2ZTXraSBBAX7XAa+UEIxv8k5UbO/uQG+ATJD5B7BNgTuDcwJkTxDlBmAOMUVZJ+ImUG7COLNUsbDwGDAhJRH4r6G6V3gdSd1e1kIPAeu5vx2kaldcJ6qFYA66CCyAwVjQEGYuIn4j+sxXH3W0/HGe9p2S5aPCq3tRY2wJ2IrcOKlwj/L3/7+h63WvXEv5xXGtJwiXgrXujBYQInb2b0ce0F6QSDqznReJcAc2MYitQv6pbJ9v+93DVSLNqwOh45/2tOD02JgsgNpKo9/1o52zlyGWdg6OdtqpcFOaVAhG92L352VnYv6ijDNkJy6SfFC5TdsIi6Tnh0fHO+ziRD39GazmJ6PnBzc8plynhwHrerTi9LHPrhhhXtdp4PHtUHvdGYj6RQzbW6vbLmanpm/U8R5wgY0g3kugKeDNpePiF+0e1dyhXGQMDsNcbPflO9Bs1zRNXlZN9/25V/H8eVtp5gm4SES4nnw3A8LjWorjldhN4A1tvwr2wqrwtVScFKtoGMIH1XFVtlS2UAhtYzzWx4zTLNkmJ+xunaRLd5KamWMTQNCiHZYukJVE8A/JcVrWVGDg0gnpli6yBa57RviEN7sqM47lhBDKn3LME9sCbb/Pm2nIwln6jFvC8l+VHqG9ExC9bIz1mbBT9VbZGakS/GiN0y/ZIiyZ0jRPH3QJfvFBU3lQ1flHV+AXKKRAWFJst4q4A9Bu1LxRQKFmUIlUKyBMT+HzQG7UMgKgsLFysE3BWFuClH4YJfM4bX5SPcL+B3/WHXXL+dUtnG5FcsYFwLqczynmeiIL+tajPkHNHqDw8AVNZbs5nea6GAA+Vz6xpPiD+Xm/YmHybqkvEGp/meEHcSKIv/aNap5rE1wC3lYqNYs1cOhAY32rlZKZtmoGtn6no5Wx7GSQq5wf+cKpUNbdb2/WHH7SAWSMvqtKZlYUl5dYftn4h96n1n0ZVOvv+8OKpvqUF7TKkl8lCijOOga2fIdredGYiMI4XPAYz41ZzV4GsfAK1xejNaXRjrZw+tVLOjVwnbN/W3iG0KfDYS5XzySqWhkwHi0Nba6mRt1lKXHeno+KL0rnfEqx7fXYC67kxTjMxNFE5BFxBvcdHtwmMjYiv6C+T0HXId3T7H5FmXZxjasHKAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAADEElEQVRYhdWZX1bTQBSHvzsp9TWuwLgC6xutcozPUE9YgbACYAVtVwA7QFdAPdRn41GLb9QVWHaQV7Xp9aF/DmkbkiYpge+pTGbu/E6YzMz9XSEH6rk2YejC+A2qDkoNg41iAyAEqAyBAGEA5iuW5UvXD7LOKZmE7r12QVuI1ubi1qOLWB/l8lt33YFrCdZm3QM5RXHWnShm9iHQkcv+h/RDUqDetsPIOgd1sylLZEClui9df5jU0SR10Hf1I0JzvUGxADVGf691t36c1PHON6x7jRbQLkpVStrS63fiHsYKLknsjFjRKwWXLHbGStFLgvVd/YixnN2PpgRUT+TzVURLRLB62w6huc64t26CgEr15e3doxJ5PLIuQLOLrVSfL25Nky3R/M4Y0Wb07xx4O2uYv2FtNg5QzjMGngTr9eO+Cc0TF7H2Z6fi7X24lSvoRglPZ78MgDZ3vMKO202gOJP7y/wNh+9LlJMSbQEY9VwbxStbTjJaU8+1zeQ++yiwCf+4Bn00gkHFNSAvytaRGsUx8GBOtWQMLwyiTtk6UqPY5gHdG9JgJ2YcDw2DkDnlXkQ911lu215qy0Egutv4jTzgYznKwGAYlK0iPRIYlJuyZaRHfxnE8suWkRpR32BZfmEfnjAE85ZK9SmV6lOEw6m7UwzWE18AdO/Vl0KMkrgUqYg8Ufkkn/vedB+WWONirYArrCbp/hyCfsod3+gHmF7gpffdz/2vkzt2m4nlmif2UC6vFnM66yRfUHl2x4R5b4TzFRD1JfKt5SUPAXKn+YAMpPfj5eyvqC9RCQ9zfCA24d8v2mx0sKoTo3o0qhGOs1sHQoC1tR9tWkCb9WNUThfbS2GFVbV0W5PLqzNurZkS6SyKhbvt1jblmSsd6fXbqx4kGdpt7l90rFhIUePQZv0YpLXxzEQIGOvKZRDtloJpUeYCtFaMuiUZPpWtwzRFmTXLXo0DoFVs2UtPZqdYuiEZ0OaOB+H7TBbXpDo6AOlI77u//vAczEu3GrpTQ8ZG1ImUbscEGAYoN4jl5y3d/gf0wycT/bH20wAAAABJRU5ErkJggg==)
+
+FYF INELIGIBLE & AGE-RESTRICTED
+
+*   Showing or promoting cannabis or cannabis-related items, or adult tobacco use
+*   In some regions, showing or promoting gambling activities or gambling-like activities, or firearms or explosive weapons
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAlCAYAAAA0lXuOAAACQUlEQVRYhdWYzW3bQBCFv13kDz7RHVAVxK4gUgfuIMolgMEEdiqgU4EiGBSPLiFJBVIqiDuwStAtgIFwchAthRa5vzSRvJMgcWee3u7MPC78J1B9BZKCExQzhHEdeYXinTpn3Uf8XohKScpvfqJIHv20ASYq4zY2h44NAEDFsoUkQIJi1keKaKJSMAXS7gcYy4LL2DxRWy8lKRVLTES32HDPSH1iE5orTlHhAjtJgISX5DGpghWt1bzzWqQZhXaBcEUloEiEm9B0QUSlYIpw5r+QsZR1n/VEqKLh563iRmatrcwIb6JSkONWQF1IeeHfrryKKaiA2rFBc+pTWH6KVpYt14xUhlIZCs3I8GTiW1jOisqCM4SvxmBZM54UiDGoZqLOWbnkd1c0pB3ZULmr6kRUCucJ5IvU1QdYiUpJCvGmojsBuUu7sitaRbcjG5x8gJForea0J0KGRFzaJpZZ0a2FGwZiVrWTqNUQ9w2LwW4lWm95lH8MgqGw2hV1N8TNZeV+zd+fPdBZWAeTqcd5Ho4Wg32o6FNMIF+0+IAG0WBDvMecI4454piKz8FRWgz2YxNxR3ilf1dZ80/KguXu5sQfa+45fXhz3SnagyE+vA0RfkTEaxhsDbsKvYoICoo3Ld+9jooJFw/d4xlgN8Qu2J6rnFfMAfhFHnneYW+wJ0quGaMHHJUh0Ew0OviwDwfhRCPh90GDQUg0En93+eR4zjetPrKiqgvg38Rcved21/Dlmis0bxnS2pmxRpirD3wB+AMZubCOFJ0DtAAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAlCAYAAAA0lXuOAAACQUlEQVRYhdWYzW3bQBCFv13kDz7RHVAVxK4gUgfuIMolgMEEdiqgU4EiGBSPLiFJBVIqiDuwStAtgIFwchAthRa5vzSRvJMgcWee3u7MPC78J1B9BZKCExQzhHEdeYXinTpn3Uf8XohKScpvfqJIHv20ASYq4zY2h44NAEDFsoUkQIJi1keKaKJSMAXS7gcYy4LL2DxRWy8lKRVLTES32HDPSH1iE5orTlHhAjtJgISX5DGpghWt1bzzWqQZhXaBcEUloEiEm9B0QUSlYIpw5r+QsZR1n/VEqKLh563iRmatrcwIb6JSkONWQF1IeeHfrryKKaiA2rFBc+pTWH6KVpYt14xUhlIZCs3I8GTiW1jOisqCM4SvxmBZM54UiDGoZqLOWbnkd1c0pB3ZULmr6kRUCucJ5IvU1QdYiUpJCvGmojsBuUu7sitaRbcjG5x8gJForea0J0KGRFzaJpZZ0a2FGwZiVrWTqNUQ9w2LwW4lWm95lH8MgqGw2hV1N8TNZeV+zd+fPdBZWAeTqcd5Ho4Wg32o6FNMIF+0+IAG0WBDvMecI4454piKz8FRWgz2YxNxR3ilf1dZ80/KguXu5sQfa+45fXhz3SnagyE+vA0RfkTEaxhsDbsKvYoICoo3Ld+9jooJFw/d4xlgN8Qu2J6rnFfMAfhFHnneYW+wJ0quGaMHHJUh0Ew0OviwDwfhRCPh90GDQUg0En93+eR4zjetPrKiqgvg38Rcved21/Dlmis0bxnS2pmxRpirD3wB+AMZubCOFJ0DtAAAAABJRU5ErkJggg==)
+
+FYF INELIGIBLE
+
+*   In some regions, showing adults having or consuming alcohol
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAD8ElEQVRYhc2ZT27iSBTGf6/sLEdy38A5QZLlSO0MvkFyggkSzCirJCcATpBkhRoikT5Bek4AAz1imcwN3CcYS7NM2TULoIHY4D+Y9Hwru/yq/Klc9dV7n4Vd8Dxw+DeqoeQXTORiOEbEAZx5RAgEQIioF2LzJz9ZI07qYdlXSqlek34NaAHHK+QKwHzBqM+cNr4U7VmM8PjhDBXfYsQt+qL0t0tAHHc4/e0xd5dcUdOui7YHQK0cs0wWL1j2OT/Xg6xQlTnYpHeFtp/ZF1kAwzFaPzP+dJ0Vun2GJ/0W0K6IVl608ZqdTQ83E/4xZBfYSDqd8I8lu0Aq6SThSe8K5O5dKGXBxDec/r7GZZ3wTA2eKaWte0GIbZ+sqse6Smj7if8PWQAHrQerDUvC494Fs5PrHSAvBYJrjB/OFjdLwopWlZS2oIPXOEHrQyAfccXt4nK2hscPZ4h52gu9VYgEfGwcrrVN+m3INVk+XnM0m2Hh18rJpeHV8hNtXrOds3cLQBgOHGz9T4W0NkDu8RrJoze/5odo+1BhRbWKmSUhEqCtpLZPuy6QmT/M4WBFNYXsMalZII47+CmZWHTQooiMCjUbzFF1zNJeIo94zcdE+7h3gTEXhcYysatA9ntQvFrJJGbadUvJqFJHCoxbgkbemix9KbzaV6WqFmMcRaE1JAHaPsRrfgC5z4xNk6xp10Vyb7S3cLIrjlUCr5b/fca8xjWGzxvj0zQXILKGhSi+gSLv55X4PPF5I/uatONV5DF1KUz6rR0L2FBhTD7CRiXVxK+HaH2OmCW52ZdI32i7FgVCoBCVLwEx5o6/eslszr8MeI18Fl9qu+buBiOhAr7lDHeIZch04Cae+JcByvgg96keQxnNTcffUjhTEwmwLD+PhwDMlkJkDSsxX4ycKyJrRH5dBWNctH5iOMgnh9HBrhttZSxrpPDrIXkT6SWOOYhuM6OmXbeipQDG/IFfDxc6vNG42DLABV/720nvqLnrUI+wKJG85mhNmvLCcD3PZ5PYXXOXEAkWTufypIvVTcnh2nx9WK9YqtDcVcTx9xWw7ktM+kPKmn4mvsGSEbE4iBlUNrvIC17jZHFnrz3Tuo5d0kgRdUs8vzblfPIUhGjrfLVhPfnxLwNMiQ24L0gyPU1ma6fNO8qoRvXo8LGZqAO32a1t8vkF+0BnU/mfZWi3eX/SG8lCnn8c4/41QrHqthxCJH0ZrCLfdh52XWz7ib2ZhTJCW/XUtPRtZKFxx70LFNWeYDE3Rf7XlRPM8cPZzI8zZ9nBCYQzu9V08Jqjop13U/jhwMGKanP36Ahw5rbB8tetkRDhBfiGYURkjeYZYin8B8h1ZTjAYN/gAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAD8ElEQVRYhc2ZT27iSBTGf6/sLEdy38A5QZLlSO0MvkFyggkSzCirJCcATpBkhRoikT5Bek4AAz1imcwN3CcYS7NM2TULoIHY4D+Y9Hwru/yq/Klc9dV7n4Vd8Dxw+DeqoeQXTORiOEbEAZx5RAgEQIioF2LzJz9ZI07qYdlXSqlek34NaAHHK+QKwHzBqM+cNr4U7VmM8PjhDBXfYsQt+qL0t0tAHHc4/e0xd5dcUdOui7YHQK0cs0wWL1j2OT/Xg6xQlTnYpHeFtp/ZF1kAwzFaPzP+dJ0Vun2GJ/0W0K6IVl608ZqdTQ83E/4xZBfYSDqd8I8lu0Aq6SThSe8K5O5dKGXBxDec/r7GZZ3wTA2eKaWte0GIbZ+sqse6Smj7if8PWQAHrQerDUvC494Fs5PrHSAvBYJrjB/OFjdLwopWlZS2oIPXOEHrQyAfccXt4nK2hscPZ4h52gu9VYgEfGwcrrVN+m3INVk+XnM0m2Hh18rJpeHV8hNtXrOds3cLQBgOHGz9T4W0NkDu8RrJoze/5odo+1BhRbWKmSUhEqCtpLZPuy6QmT/M4WBFNYXsMalZII47+CmZWHTQooiMCjUbzFF1zNJeIo94zcdE+7h3gTEXhcYysatA9ntQvFrJJGbadUvJqFJHCoxbgkbemix9KbzaV6WqFmMcRaE1JAHaPsRrfgC5z4xNk6xp10Vyb7S3cLIrjlUCr5b/fca8xjWGzxvj0zQXILKGhSi+gSLv55X4PPF5I/uatONV5DF1KUz6rR0L2FBhTD7CRiXVxK+HaH2OmCW52ZdI32i7FgVCoBCVLwEx5o6/eslszr8MeI18Fl9qu+buBiOhAr7lDHeIZch04Cae+JcByvgg96keQxnNTcffUjhTEwmwLD+PhwDMlkJkDSsxX4ycKyJrRH5dBWNctH5iOMgnh9HBrhttZSxrpPDrIXkT6SWOOYhuM6OmXbeipQDG/IFfDxc6vNG42DLABV/720nvqLnrUI+wKJG85mhNmvLCcD3PZ5PYXXOXEAkWTufypIvVTcnh2nx9WK9YqtDcVcTx9xWw7ktM+kPKmn4mvsGSEbE4iBlUNrvIC17jZHFnrz3Tuo5d0kgRdUs8vzblfPIUhGjrfLVhPfnxLwNMiQ24L0gyPU1ma6fNO8qoRvXo8LGZqAO32a1t8vkF+0BnU/mfZWi3eX/SG8lCnn8c4/41QrHqthxCJH0ZrCLfdh52XWz7ib2ZhTJCW/XUtPRtZKFxx70LFNWeYDE3Rf7XlRPM8cPZzI8zZ9nBCYQzu9V08Jqjop13U/jhwMGKanP36Ahw5rbB8tetkRDhBfiGYURkjeYZYin8B8h1ZTjAYN/gAAAAAElFTkSuQmCC)
+
+ALLOWED
+
+*   In some regions, content from registered business accounts that meet our safety and eligibility standards that market prescription drugs
+*   In some regions, content from registered business accounts or TikTok Shop Sellers that meet our safety and eligibility standards that sell, market, or provide access to:
+
+*   Alcohol
+*   Gambling, gambling-like activities, or mystery value products
+*   OTC drugs
+
+*   Discussions of substance misuse or recovery
+*   Advocacy around public policies, such as drug or gun regulation
+*   Documentary or educational content that raises awareness about regulated goods and services
+*   Fiction or art, unless it enables real-world access to regulated goods and services
+
+* * *
+
+### Commercial Disclosure and Paid Marketing
+
+We value authentic viewpoints and want discussions on TikTok about products and services to be open and honest. **If you’re posting commercial content on TikTok, you must clearly disclose it using the [content disclosure setting](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service).** This helps people understand when you're marketing something.
+
+Disclosure is required when you’re:
+
+*   Promoting your own business, product, or service
+*   Posting branded content, including reviews or endorsements, and receiving any kind of incentive in exchange
+
+All branded content must also follow TikTok’s [Branded Content Policy](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/branded-content-policy), [Ads Creative Policy](https://ads.tiktok.com/help/article?aid=9552), and [Industry Entry Policy](https://ads.tiktok.com/help/article?aid=9550).
+
+If commercial content isn't disclosed using the content disclosure setting, it will be ineligible for the FYF. If we find commercial content that hasn’t been properly disclosed, we may apply the content disclosure setting or remove it from the FYF. Repeated failure to make a disclosure can lead to your account being temporarily restricted from posting content, or can lead to an account ban.
+
+**We don't allow any form of paid political advertising on TikTok. Learn more about our policy regarding [Government, Politician and Political Party accounts](https://support.tiktok.com/en/using-tiktok/growing-your-audience/government-politician-and-political-party-accounts).**
+
+More information
+
+**Disclosures:** Clear statements that explain your connection to the product or service.
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACiklEQVRoge2Z21XbQBCGv+TkPS5h3IFTQeQKYioAKgBXgKgAXAFKBZAKrBLUQaYDRAXkYdccebWrq72GoP9tV6Px/N6ZnYtgwoTPjS++TRGZAVfABSAR7amiADJV3TQJ1QhY47fA4kiG9YUCP1S19D386tm74/0YD8YDrkMPfQRWRzNlOK5CD7559mbOeo3xx5hYYDxhB9emN/gIuChUNR9rUR+ISGdZnwt9KEwETo2JwKnR5RaqwWbrQ+SLUlWfxigYRABTI921CXWBiKxV9X7o+0NdKJhYYuv6nDEAPAE/D/D7JZCNUTCIgKoWwHLMDx8KH96FJgJHQoHpxHbIQ4JDg/ggsAkxwVylJaCqWtj2cd5Fx9BMvAIeaL/DC2Dp9rMikgA3GONd3QrcqmrWxZahLrSgWwKqyYnIDWZokATeEeBBRB7tCTUiagxY49OO4ivgsU1oKAHtIVsCiMiCuvElsAEuMb23qzcREfedPfjmQq/O1tLXE1s/bkNpkx4i4rpNDpx54iPFxMebDmAemgsNJtAHYrr0v5UtpWFY5SF7GQrqWDEgzvpPyHiLW2cdHLSdikDbnEmd9feQ4Kkycdv1KM76JSQYi0DurH+1yJ876+CJRSGgquoYkdicUIPN8hfOdh7SHbMW2mDKjx1Sezv9xvi8YJqk1Hkvs3+AF1Gu0YruphIihNLa4HWj2EF8Rv9J9wzY2kxeQ5cTGDNeV9/x22x7TvjzVYaphaq3lfckfASeOdzYJFgGVHqBBHPPv2BiIVPV0v7jW+ok9vT5CKTs1yJjMW8KwiZ4SNQI+GLgnn7V5tFQmX4oxvi1e5rez6wAInKN8dMxH/yUhqKtK3aNzVg9Eyb8j/gHe77at8l7d10AAAAASUVORK5CYII=)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACbUlEQVRoge2Z3XXaQBBG7+TkPaQDuQNSQXAFwRWEVBC7AkgFSSqIO7BTAXRgOoAOkCv48rAigdUuWgkJsKP7wlk0Ozuf2Jn9AXp6ekpIGkiaSlrpfDxJ+loVq4WCB+bAsIuX04A18MHM8tDDN4HvvnM5wQNkwG3sYegX2ACDDgNqQm5m70MPQgLkfXUHLLuI6gBD3Ez4i5mVYgV4m+BsaWaLFoJKpvwO44Ry4EXRCzg3vYBzk1KFShSr9biF8XMzezzGQSMBwASvTjdF0p2Z/Wjav+kUanOlPsrX/5kDwCPwsYXxc+D+GAeNBJjZErg+ZuC2ePFTqBfQEUvcSWzLImbYNIlboVgQR7hSmgNrM1sWx8erpk59RgGbsaRN4sG8VOcljSTNI31WkiaNgq8hYJYQ/JbM6ztN7PcQEu9z0hyQNAVmieZj4KHKqKmAdQ3bHEDSkHLwOfAT+II7e/t+R5L8PnukHOqvQ2fi0NQKkBeLHpLmuITdsgBu/PueIuDprg/gKnYvVCIlB+oiKfN8rg7Nb5UTfBKzPVUOZF77d8Ub/ea1oxdt5xJQdc+09trvYobnWomrymPmtZ9jhqcSsPDanyrsP3vt9JvBLpK48Pvk+Z1G7MaBGLJLEDAJ+P4lt63Iis9pyKbuQJ0IKHzPA/6r2MgtgkFOncQ31L/pHgDzmIiur9fXZrYOjDHDJWoW6XeP2wvtVqsctyvYi6XrPzii2wD9OwuMcHX+GVf/780sL974nLKIw9sK1dsqp5A1VS9pqP1zx0ZVW2y5fyhXlyBgR8SqCH5Sp+OtyrW7LislHEoSYhm04aen5zXyBxJPCbVdj4aWAAAAAElFTkSuQmCC)
+
+REQUIRED DISCLOSURE (using the [content disclosure setting](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service))
+
+*   Marketing for your own business, product, or service
+*   Promotion or review of a third-party brand, product, or service in exchange for money, goods, or any other kind of incentive
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAlCAYAAAA0lXuOAAACQUlEQVRYhdWYzW3bQBCFv13kDz7RHVAVxK4gUgfuIMolgMEEdiqgU4EiGBSPLiFJBVIqiDuwStAtgIFwchAthRa5vzSRvJMgcWee3u7MPC78J1B9BZKCExQzhHEdeYXinTpn3Uf8XohKScpvfqJIHv20ASYq4zY2h44NAEDFsoUkQIJi1keKaKJSMAXS7gcYy4LL2DxRWy8lKRVLTES32HDPSH1iE5orTlHhAjtJgISX5DGpghWt1bzzWqQZhXaBcEUloEiEm9B0QUSlYIpw5r+QsZR1n/VEqKLh563iRmatrcwIb6JSkONWQF1IeeHfrryKKaiA2rFBc+pTWH6KVpYt14xUhlIZCs3I8GTiW1jOisqCM4SvxmBZM54UiDGoZqLOWbnkd1c0pB3ZULmr6kRUCucJ5IvU1QdYiUpJCvGmojsBuUu7sitaRbcjG5x8gJForea0J0KGRFzaJpZZ0a2FGwZiVrWTqNUQ9w2LwW4lWm95lH8MgqGw2hV1N8TNZeV+zd+fPdBZWAeTqcd5Ho4Wg32o6FNMIF+0+IAG0WBDvMecI4454piKz8FRWgz2YxNxR3ilf1dZ80/KguXu5sQfa+45fXhz3SnagyE+vA0RfkTEaxhsDbsKvYoICoo3Ld+9jooJFw/d4xlgN8Qu2J6rnFfMAfhFHnneYW+wJ0quGaMHHJUh0Ew0OviwDwfhRCPh90GDQUg0En93+eR4zjetPrKiqgvg38Rcved21/Dlmis0bxnS2pmxRpirD3wB+AMZubCOFJ0DtAAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAlCAYAAAA0lXuOAAACQUlEQVRYhdWYzW3bQBCFv13kDz7RHVAVxK4gUgfuIMolgMEEdiqgU4EiGBSPLiFJBVIqiDuwStAtgIFwchAthRa5vzSRvJMgcWee3u7MPC78J1B9BZKCExQzhHEdeYXinTpn3Uf8XohKScpvfqJIHv20ASYq4zY2h44NAEDFsoUkQIJi1keKaKJSMAXS7gcYy4LL2DxRWy8lKRVLTES32HDPSH1iE5orTlHhAjtJgISX5DGpghWt1bzzWqQZhXaBcEUloEiEm9B0QUSlYIpw5r+QsZR1n/VEqKLh563iRmatrcwIb6JSkONWQF1IeeHfrryKKaiA2rFBc+pTWH6KVpYt14xUhlIZCs3I8GTiW1jOisqCM4SvxmBZM54UiDGoZqLOWbnkd1c0pB3ZULmr6kRUCucJ5IvU1QdYiUpJCvGmojsBuUu7sitaRbcjG5x8gJForea0J0KGRFzaJpZZ0a2FGwZiVrWTqNUQ9w2LwW4lWm95lH8MgqGw2hV1N8TNZeV+zd+fPdBZWAeTqcd5Ho4Wg32o6FNMIF+0+IAG0WBDvMecI4454piKz8FRWgz2YxNxR3ilf1dZ80/KguXu5sQfa+45fXhz3SnagyE+vA0RfkTEaxhsDbsKvYoICoo3Ld+9jooJFw/d4xlgN8Qu2J6rnFfMAfhFHnneYW+wJ0quGaMHHJUh0Ew0OviwDwfhRCPh90GDQUg0En93+eR4zjetPrKiqgvg38Rcved21/Dlmis0bxnS2pmxRpirD3wB+AMZubCOFJ0DtAAAAABJRU5ErkJggg==)
+
+FYF INELIGIBLE
+
+*   Commercial content that isn't disclosed using TikTok’s content disclosure setting
+
+* * *
+
+### Frauds and Scams
+
+TikTok is a place where you can learn from and engage with a wide variety of topics, and we don't want anyone to take advantage of your desire to engage and explore new topics. **That's why we don't allow any [attempts to scam, trick or defraud people](https://www.tiktok.com/privacy/blog/scams-and-fraud/en).** This includes helping with financial scams, impersonating a celebrity to sell something or communicate with users, or fraud of any kind. **Learn more about how to [identify online scams](https://www.tiktok.com/safety/scams/?lang=en) and protect yourself.**
+
+More information
+
+**Frauds and Scams:** Deceptive acts meant to take advantage of others, usually to steal money or personal information**.**
+
+**Money Muling:** Moving stolen or illegal money for someone else.
+
+**Multi-level Marketing (MLM):** Recruiting people for companies that sell through a pyramid-style structure.
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAEPElEQVRYhcWZS1bbShCG/yrZjLWENgYDIxq4c5QVhKwAs4KEFdheAWQFkBUEVoCzgIv7jgh+RMoOPI6srgzAXBmslmQb+M/xOcj9qI9yq7qrmrCEQq38P54XsNChhSgINAO+AD4AEDAWSATQmIiMJfmxliTdmonGi9qkRQYN/tkIJJEWAXoKV0ZCuALh29a/o6uyY0sB3x/Uj8jiDIAqayhDEQidxu3osuiAQsChViom7wJAsCBYjsRUZe1TzfyM8npyXofRwfrnCXk9vBosAJCOKe793F//ktvT1TjYX2+JUHtlXAVEJO3N21+dzPashveAncoFPRe4DOxD6CJDgmsBdauIo2nYCrXyJ6hoABqMQxE5Whb6BfDoYP1zYum8CKgV+rqGyXnRuHqnlWJUmkRyjAKRxpKcbt/+mmGZAQ61UhPyegVj6xjCHxpmYIrApnWnlWLy2gQc59moSnUvHT1mokRM/L3ERuCD7E1fb+qSvNgxUbTVGzVJ6DTPRkzxRfqLJ+D+fr0JUFnjC0MDwKYZnkNwktMtuNf1p7X/v4cFrUWMYknohhld5nmaCGfTvxkAhgf1Iyy33S7vacJXRxc10BsB8AgsQq7FHxFQJAosBV21SdtlR0haAMChVr4rPorQNxH+8NrQNRONLZHLyzrUyufE8wLXRBaVy4YZmLeAXrOTc4cN/w+8gK1kH2oscL3zGAPfArpmorEAmXGdGAFDsJs5A1E3/fgW0ER0ndVmBYoBytwoPPvyv31t6IqddVJaDOwyQVTmYEzm/jyvCx1HrrnYtRW7DjWvBZ1zkPJzMw6X3ip6pMUuY6FWuQehVUPn2ByzOAzFqKoCECuFnlQqjl9AIiaizLhnWYICAABWCG3hAOYxC+R3ZrPIxyKwU60I+jBzBMl/zISuY1JdZB2ntQx0qJVynmssuuwlSde5f3Mlt1awKugJszNlWkPSJQDo79VvkF0oGVclqS1SwOvrTU1kbwrniA8fNa/RAtfbvdERAwAJZRYuAPgx80LZSGlPO5IIElwCqay5v1cPXQPmpdxFVdLT8xQ1eqMakMrpWODMq1jobKjreWn5XJX09EsJnlbATF0iZy0DeA9Pk2n0hnvTp5mzRCLJSZ4XWOisv1+/CPW2Kslb2tMEjBOpfJqxn37YMVEE9wv4IEEzpvhmsL/eKgMeauUTJ4U3o0Sos/OsZjy3GHivN9r0mKUWkRCuGPQDDFOZTEy6GBhXq4oSCUTkY5krBhHqbJlh+/n3meXWstCrVBYskFPQfg9oFyxQ4I5joDe+gKS1RAwtpIcXjDrbZuiMQIUuZe60Uh5VvgOyVLbgwOgmUjl5/oLN7Vlm2r6uN0FoYYXXXiI43TLF7+sWulgc6vqRMB2XuQJIGZxeMXQ2zbC7wPjFFWrlJ/ACywggtAvAJ4hKX91aYMxERiC/2aLrYbmr27+DrWfGSY/FdAAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAD60lEQVRYhcWZQXbaSBBAf7UUZqsjKCcI2dk4fla2M8ZRTmD7BIlPAJzAzgnsnCD44czWypsZnJ2ZEwy5AdshiMoCw6AYtVoCM7UCdXXXp9RUd1UJa4jGUUCaRjA9QDVEqWMIUAIAhBEqQ2CEMADzBc9LpJuMqtqUSqCHryLQFqL1BVw56SLeR+n90S07sRSwNndjkHOUsKyhHOtDoCO9/pX7FAfReCdk4l2CRtXICmWAX3sr3WRYpGiKFPRo9x2puX9CWIA6k/G9/rb7vkjR6mE9bLSA9qaoHKUtN/1O3mAu8P8EO5dc6JXApWBnoWuATK/xJIHacB62NI4CJpM6ktZBDlDidaEfAevR7jumcuEGygf82oVrXJ39ec0JwrFTpFE9k893GZYMsMY7Iam5d4ytI6a8lt/7AxfYx3akjcpxoQ2/9nI5emSjxMT7VOIgCDDc6q+NejlckO7XofTuThA9K7Qx+X65/GABrM3GCWhZ45WhAaR3d4FwatfSSJv7i72/7OFWFaOsDd2/KvZ0ej7/ZAC0uR+vedyu72n4kKughLP7y8LDaf7mF4YILlFgLWj8WttuR1sARuMosMZH5SMer58aWrrJLEzmg9Q1jgIzu89axK9dSbc/2AY0fu3CYiMg/TcyqAVYuZ7HwG1Az7ws+XFdJTIgL/KX0CS74BY8LdPrfBxCA5aDQrxHv/bJoT1JcscMLwyiYa6C7698PU8LXRvmDimBsR3FtkvNU0EXXKSCwozDvviWoseSGJsxjaPCi9CmoQtsjgxTi6HxOHSA2Cz0ZGJ7A0ODIT/uiXviuTFoSS3AMjIo3/LHzRsH4/+pbwRaDvKn6N8G8RKLQt1lH2fMrQGt8U5ovdeIJgbPS6zn92RcWCvYGPTE2FMm75dEAPRw79ZSKBnh155XKeBp3KiTcuucI84S23D1YlzL5378EIclt3ABBKTfK2UjpT1tSyKMXsFS1qzNxj/WCStSblcp6enHIgyl138OmZzOs+dVIud6tFeUlq+eWs7Tq2SxA7J1CfteflDatqdlIDd/vZx/y94l/PS00Asi59rcu9Q4CkvRUsHTwgj/2dvlRxlg6X4dgtr+gDNRPSEd3+pho1UGfFZrw/0wmmrn55pxXjGwTbk6RRfRL6g3wPcHmWLgeBziaYSaNyVbDB256bd/fmgrt5aF3qSshIXignab7UPnwoJDj0Obu+9BWpVjqKsII6baKYpAZZoynyoUCx1FEvxnpy5NmZJtr8YJ0Nps20vPpHfn3K+r1lhs7seQHpdsAcwtPhRLpCM3fyblp68hi9atptFDQSZANMy0bqeMMAxQviFesm7r9gcD1gDXQ4smoQAAAABJRU5ErkJggg==)
+
+NOT ALLOWED
+
+*   Promoting or helping with scams that target individuals, including:
+
+*   Financial scams, such as fake investment offers or “get-rich-quick” schemes
+*   Phishing or identity theft
+*   Job or transaction-related scams
+
+*   Teaching people how to carry out scams or fraud
+*   Money muling
+*   Multi-level marketing (MLM)
+*   Trading fake currency, forged documents, and stolen information
