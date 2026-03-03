@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python caching
+__pycache__/
+*.py[cod]
+
+# Data files (optional: add if you don't want to upload the raw data)
+*.json
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
