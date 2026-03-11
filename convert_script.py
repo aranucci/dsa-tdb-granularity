@@ -1,61 +1,87 @@
 import os
 import json
+import re
 import frontmatter
 from pathlib import Path
 
-def md_to_individual_jsons(input_dir, output_parent_dir):
-    # 1. Create the output folder if it doesn't exist
-    if not os.path.exists(output_parent_dir):
-        os.makedirs(output_parent_dir)
-        print(f"Created directory: {output_parent_dir}")
+def parse_document_metadata(content, metadata):
+    """
+    Tries to extract 'Effective Date' or 'Last Updated' from the text 
+    if it's not already in the YAML frontmatter.
+    """
+    # Look for dates like 'August 2025' or 'January 1, 2025'
+    date_pattern = r"(Effective|Last updated|Date of Last Revision|Updated|Last modified|Last revised|Dated|January|February|March|April|May|June|July|August|September|October|November|December):\s*([A-Za-z]+ \d{1,2}, \d{4}|[A-Za-z]+ \d{4})"
+    match = re.search(date_pattern, content, re.IGNORECASE)
+    
+    extracted_date = match.group(2) if match else "No effective date found."
+    
+    return {
+        "platform_name": metadata.get("service", "Unknown Platform"),
+        "contract_type": metadata.get("title", "Terms and Conditions Contract"),
+        "effective_date": metadata.get("date", extracted_date),
+        "region": metadata.get("region", "EU/EEA"),
+        "source_url": metadata.get("url", "No URL provided.")
+    }
 
-    # 2. Iterate through all .md files in the repository
-    count = 0
-    for path in Path(input_dir).rglob('*.md'):
-        with open(path, 'r', encoding='utf-8') as f:
-            post = frontmatter.load(f)
-            metadata = post.metadata
-            content = post.content
-            
-            # Simple header parsing
-            sections = []
-            current_section = {"header": "Introduction", "text": ""}
-            for line in content.split('\n'):
-                if line.startswith('#'):
-                    if current_section["text"].strip():
-                        sections.append(current_section)
-                    header_text = line.replace('#', '').strip()
-                    current_section = {"header": header_text, "text": ""}
-                else:
-                    current_section["text"] += line + "\n"
-            
-            if current_section["text"].strip():
-                sections.append(current_section)
+def convert_to_dsa_json(input_root, output_root):
+    input_path = Path(input_root)
+    
+    for md_file in input_path.rglob('*.md'):
+        if md_file.name.startswith('.') or 'README' in md_file.name or 'LICENSE' in md_file.name:
+            continue
 
-            # Create the structured data
-            service_name = metadata.get("service", path.parent.name).lower().replace(" ", "_")
-            # file_date = str(metadata.get("date", "unknown_date"))
-            
-            service_data = {
-                "service": service_name,
-                # "date": file_date,
-                "url": metadata.get("url", ""),
-                "sections": sections
-            }
-            
-            # 3. Save as an individual JSON file
-            # Example filename: tiktok_2023-08-25.json
-            json_filename = f"{service_name}.json"
-            output_path = os.path.join(output_parent_dir, json_filename)
-            
-            with open(output_path, 'w', encoding='utf-8') as out:
-                json.dump(service_data, out, indent=4, ensure_ascii=False)
-            
-            count += 1
+        with open(md_file, 'r', encoding='utf-8') as f:
+            try:
+                post = frontmatter.load(f)
+                
+                # Setup Paths
+                relative_path = md_file.relative_to(input_path)
+                output_folder = Path(output_root) / relative_path.parent
+                output_folder.mkdir(parents=True, exist_ok=True)
 
-    print(f"Finished! Processed {count} files into the '{output_parent_dir}' folder.")
+                # 1. Build Document Info
+                doc_info = parse_document_metadata(post.content, post.metadata)
 
-# Run the script
-repo_path = './vlop-vlose-versions' 
-output_path = './structured_t_and_c'
-md_to_individual_jsons(repo_path, output_path)
+                # 2. Build Content Tree (Splitting by Headers)
+                content_tree = []
+
+                # Matches '# Header', '## Header', or '1. Header' style
+                sections = re.split(r'\n(?=#|##|###|\*\*|(?:\d+\\\.?\s))', post.content)
+                
+                for idx, section in enumerate(sections):
+                    lines = section.strip().split('\n')
+                    if not lines: continue
+                    
+                    header = lines[0].replace('#', '').strip()
+                    body = "\n".join(lines[1:]).strip()
+                    
+                    if body:
+                        content_tree.append({
+                            "section_id": str(idx + 1),
+                            "header": header,
+                            "text_content": body,
+                            "dsa_mapping_suggestions": [] # Placeholder for Step 3
+                        })
+
+                # 3. Final JSON Structure
+                final_data = {
+                    "document_info": doc_info,
+                    "content_tree": content_tree,
+                    "global_metadata": {
+                        "source_file": str(relative_path),
+                        "processor_version": "1.1"
+                    }
+                }
+
+                # Save JSON
+                json_filename = md_file.stem + ".json"
+                with open(output_folder / json_filename, 'w', encoding='utf-8') as out:
+                    json.dump(final_data, out, indent=4, ensure_ascii=False)
+
+            except Exception as e:
+                print(f"Error processing {md_file}: {e}")
+
+    print(f"Structured JSONs are in: {output_root}")
+
+# Execution
+convert_to_dsa_json('./vlop-vlose-versions', './converted_jsons')
