@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer, util
 # 1. Load the model (Legal/Scientific text often benefits from 'all-MiniLM-L6-v2')
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-# 2. Official DSA Categories & Legal Seed Phrases
+# 2. Official DSA Categories
 # Derived from EU 2022/2065 and Implementing Regulation 2024/2835
 dsa_categories = {
     "Animal Welfare": [
