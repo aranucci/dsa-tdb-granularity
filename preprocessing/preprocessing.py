@@ -7,13 +7,12 @@ import frontmatter
 md = MarkdownIt()
 
 def read_markdown_file(file_path: str) -> str:
-    """Read a markdown file and return its content."""
     with open(file_path, 'r', encoding='utf-8') as f:
         return f.read()
 
 
 def remove_html_comments(content: str) -> str:
-    """Remove HTML comments from markdown content."""
+    """Remove any HTML comments."""
     return re.sub(r'<!--.*?-->', '', content, flags=re.DOTALL)
 
 def normalize_headings(content: str) -> str:
@@ -22,16 +21,15 @@ def normalize_headings(content: str) -> str:
     result = []
     for line in lines:
         if re.match(r'^#+\s', line):
-            # Ensure single space after heading markers
+            # Write single space after heading markers
             line = re.sub(r'^(#+)\s+', r'\1 ', line)
         result.append(line)
     return '\n'.join(result)
 
 def remove_extra_whitespace(content: str) -> str:
-    """Remove extra blank lines and trailing whitespace."""
+    """Remove blank lines and whitespace."""
     lines = content.split('\n')
     lines = [line.rstrip() for line in lines]
-    # Remove consecutive blank lines
     result = []
     prev_blank = False
     for line in lines:
@@ -66,7 +64,6 @@ def clean_markdown(content: str) -> str:
     return '\n'.join(cleaned_tokens)
 
 def preprocess_markdown(file_path: str) -> str:
-    """Preprocess a markdown file."""
     content = read_markdown_file(file_path)
     content = remove_html_comments(content)
     content = normalize_headings(content)
@@ -76,7 +73,6 @@ def preprocess_markdown(file_path: str) -> str:
 
 
 def process_directory(input_directory: str, output_directory: str = None) -> None:
-    """Process all T&C markdown files."""
     input_path = Path(input_directory)
     for md_file in input_path.rglob('*.md'):
         if md_file.name.startswith('.') or 'README' in md_file.name or 'LICENSE' in md_file.name:
